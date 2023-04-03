@@ -1,0 +1,11 @@
+2023-04-03 02:47:55.462344 - Initialized conversion of CBT801
+2023-04-03 02:47:55.598528 - Received CBT.V504.FILE801.PDS from FILE801.XMI 
+2023-04-03 02:47:55.601029 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE801.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:47:55.603239 - Found $$NOTE1.eml (message/rfc822), moved to CBT801/$$NOTE1.eml
+2023-04-03 02:47:55.604305 - Found @FILE801.txt (text/plain) in CBT.V504.FILE801.PDS, moved to PDS/@FILE801
+2023-04-03 02:47:55.606460 - De-xmi-ed DOCPDF to CBT801/docs/DOCPDF.pdf
+2023-04-03 02:47:55.608620 - De-xmi-ed DOCWORD to CBT801/docs/DOCWORD.doc
+2023-04-03 02:47:55.609622 - Found HTML.html (text/html) in CBT.V504.FILE801.PDS, moved to PDS/HTML
+2023-04-03 02:47:55.610621 - Found JCL1.jcl (text/plain) in CBT.V504.FILE801.PDS, moved to PDS/JCL1
+2023-04-03 02:47:55.611652 - Found JCL2.jcl (text/plain) in CBT.V504.FILE801.PDS, moved to PDS/JCL2
+2023-04-03 02:47:55.612629 - Found XAML01.rexx (text/plain) in CBT.V504.FILE801.PDS, moved to PDS/XAML01
