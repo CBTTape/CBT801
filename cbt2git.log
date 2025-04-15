@@ -1,10 +1,10 @@
-2025-04-13 22:57:23.320481 - Received CBT.V508.FILE801.PDS from FILE801.XMI 
-2025-04-13 22:57:23.321430 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:57:23.321514 - Found $$NOTE1.eml (message/rfc822) in CBT.V508.FILE801.PDS, moved to PDS/$$NOTE1
-2025-04-13 22:57:23.321578 - Found @FILE801.txt (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/@FILE801
-2025-04-13 22:57:23.321917 - Found DOCPDF.pdf (application/pdf) in CBT.V508.FILE801.PDS, moved to docs/DOCPDF.pdf
-2025-04-13 22:57:23.322353 - Found DOCWORD.doc (application/msword) in CBT.V508.FILE801.PDS, moved to docs/DOCWORD.doc
-2025-04-13 22:57:23.322437 - Found HTML.html (text/html) in CBT.V508.FILE801.PDS, moved to PDS/HTML
-2025-04-13 22:57:23.322503 - Found JCL1.jcl (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/JCL1
-2025-04-13 22:57:23.322562 - Found JCL2.jcl (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/JCL2
-2025-04-13 22:57:23.322652 - Found XAML01.rexx (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/XAML01
+2025-04-15 05:43:39.006852 - Received CBT.V508.FILE801.PDS from FILE801.XMI 
+2025-04-15 05:43:39.007951 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:43:39.008494 - Found $$NOTE1.eml (message/rfc822) in CBT.V508.FILE801.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:43:39.008851 - Found @FILE801.txt (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/@FILE801
+2025-04-15 05:43:39.010082 - Found DOCPDF.pdf (application/pdf) in CBT.V508.FILE801.PDS, moved to docs/DOCPDF.pdf
+2025-04-15 05:43:39.012296 - Found DOCWORD.doc (application/msword) in CBT.V508.FILE801.PDS, moved to docs/DOCWORD.doc
+2025-04-15 05:43:39.012650 - Found HTML.html (text/html) in CBT.V508.FILE801.PDS, moved to PDS/HTML
+2025-04-15 05:43:39.013001 - Found JCL1.jcl (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/JCL1
+2025-04-15 05:43:39.013296 - Found JCL2.jcl (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/JCL2
+2025-04-15 05:43:39.014020 - Found XAML01.rexx (text/plain) in CBT.V508.FILE801.PDS, moved to PDS/XAML01
